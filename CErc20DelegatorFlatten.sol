@@ -17,6 +17,7 @@ contract CarefulMath {
         INTEGER_UNDERFLOW
     }
 
+
     /**
      * @dev Multiplies two numbers, returns an error on overflow.
      */
